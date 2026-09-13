@@ -1,3 +1,13 @@
+# ============================================================================
+# Euler-Venn diagram of Mariana Trench factor sets (R, venn).
+# This produced Figure 21 (right) in the peer-reviewed article:
+#   Lemenkova, P. (2019). Statistical Analysis of the Mariana Trench
+#   Geomorphology Using R Programming Language.
+#   Geodesy and Cartography, 45(2), 57-84.
+#   DOI: https://doi.org/10.3846/gac.2019.3785
+# Author: Polina Lemenkova | ORCID: 0000-0002-5759-1089
+# ============================================================================
+
 # Роза-диаграмма Эйлера Венна (логическая похожесть объектов, что у них общего в свойствах, есть ли пересекающиеся моменты) 
 # пакетом venn.
 
